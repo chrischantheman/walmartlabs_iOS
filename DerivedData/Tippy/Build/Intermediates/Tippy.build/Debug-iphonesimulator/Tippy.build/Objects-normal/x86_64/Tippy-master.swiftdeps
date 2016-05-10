@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "e22bf0b81da0c7f2eba36e89c20acac7"
+build_time: [516155886, 687194000]
+inputs:
+  "/Users/cchan01/Google Drive/Walmart/iOS/Tippy/Tippy/ViewController.swift": [516154463, 0]
+  "/Users/cchan01/Google Drive/Walmart/iOS/Tippy/Tippy/AppDelegate.swift": [516070882, 0]
