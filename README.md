@@ -1,6 +1,6 @@
 # Pre-work - Tip Calculator
 
-![tumlbr gif](tumblr tipcalc.gif)
+![tumlbr gif](tipcalc.gif)
 
 Tip Calculator is a tip calculator application for iOS.
 
